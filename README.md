@@ -1,5 +1,5 @@
 # Kindle-Reviews-Sentiment-Analysis
-Sentiment classification of Amazon Kindle reviews using BoW &amp; TF-IDF
+Sentiment classification of Amazon Kindle reviews using Bag of Words &amp; TF-IDF vectorization technique
 This project performs binary sentiment classification (positive or negative) on Kindle product reviews from Amazon.
 It uses Bag of Words & TFIDF text vectorization techniques
 
